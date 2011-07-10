@@ -1,4 +1,3 @@
-
 git.js
 ======
 
@@ -10,7 +9,7 @@ A git implementation in pure JavaScript.
 Has two clients:
 
  * a command-line node.js client, 
- * and an in-browser repo API for accessing git through the HTTP protocol
+ * an in-browser repo API for accessing git over HTTP
 
 Status
 ------
